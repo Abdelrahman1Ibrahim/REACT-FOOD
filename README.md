@@ -1,2 +1,2 @@
 # REACT-FOOD
-App Logic Overview (public/proj.png)
+![App Logic Overview](public/proj.png)
